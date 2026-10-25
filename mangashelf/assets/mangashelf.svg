@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="ink" x1="72" y1="32" x2="436" y2="496" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#365943"/><stop offset="1" stop-color="#1e382e"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="130" y1="150" x2="370" y2="355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fffced"/><stop offset="1" stop-color="#e8e9d4"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="108" fill="url(#ink)"/>
+  <rect x="17" y="17" width="478" height="478" rx="107" fill="none" stroke="#ffffff" stroke-opacity=".09" stroke-width="2"/>
+  <path d="M108 177 Q180 158 256 197 Q332 158 404 177 L404 365 Q324 353 256 390 Q188 353 108 365Z" fill="#142b23" opacity=".45"/>
+  <path d="M104 163 Q177 149 256 187 Q335 149 408 163 L408 352 Q328 343 256 379 Q184 343 104 352Z" fill="#aab89a"/>
+  <path d="M112 143 Q184 134 256 175 Q328 134 400 143 L400 338 Q328 328 256 368 Q184 328 112 338Z" fill="url(#paper)"/>
+  <path d="M256 178 L256 365" fill="none" stroke="#547052" stroke-width="7" stroke-linecap="round"/>
+  <path d="M138 174 Q183 178 229 199 L229 248 Q180 231 138 231Z" fill="#547253"/>
+  <path d="M138 246 Q181 248 229 266 L229 319 Q179 299 138 300Z" fill="#879b73"/>
+  <path d="M282 201 Q327 179 372 176 L372 293 Q324 294 282 317Z" fill="#d2dbc0"/>
+  <path d="M290 280 L315 242 L334 261 L352 222 L366 279 Q323 280 290 298Z" fill="#708b63"/>
+  <circle cx="303" cy="219" r="11" fill="#fffbed"/>
+  <path d="M339 145 Q354 142 371 142 L371 227 L355 216 L339 232Z" fill="#c98a61"/>
+  <path d="M138 317 Q182 318 229 338 M282 337 Q329 317 372 315" fill="none" stroke="#a3b18f" stroke-width="5" stroke-linecap="round"/>
+</svg>
